@@ -1,6 +1,6 @@
 -- Tables
 
-Set serveroutput on; 
+set serveroutput on; 
 
 drop sequence generate_patient;
 create sequence generate_patient start with 306;
